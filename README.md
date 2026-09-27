@@ -35,8 +35,7 @@ from this code. See `SCHEMA.md` for the full per-column data dictionary.
 
 If you use this dataset or code, please cite both the article above and this repository:
 
-> Sapakova, S. et al. Almaty PM2.5 Exposure-Inequality Analysis: Data and Code [Data set].
-> Zenodo, 2026. https://doi.org/[ZENODO-DOI-PENDING]
+> sayasapa. (2026). sayasapa/almaty-pm25-exposure-inequality: v1.0.1 (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23001723
 
 ## License
 
