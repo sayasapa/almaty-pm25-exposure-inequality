@@ -1,6 +1,6 @@
 # Data Schema and Dictionary
 
-## `air_quality_data.csv` — Historical low-cost sensor network (146 stations, 2020–2026)
+## `air_quality_data.zip` (contains `air_quality_data.csv`) — Historical low-cost sensor network (146 stations, 2020–2026)
 
 | Column | Type | Description |
 |---|---|---|

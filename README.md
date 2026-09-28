@@ -11,7 +11,7 @@ Data and analysis code accompanying:
 | File | Description |
 |---|---|
 | `almaty_pm25_full_pipeline.ipynb` | Complete, executed pipeline: quality control; seasonal cycle; inequality indices (winter = primary, full-period = secondary); WHO exceedance with a daily-completeness rule; source attribution (distance, NE quadrant, Figure 4); traffic/congestion correlations; Moran's I; school-level exposure; QC-parameter sensitivity; common-window check; regression (R², MAE) and leakage-free classification benchmark with simulated baseline, Bonferroni correction, McNemar tests and confusion matrices; k-NN geographic-proximity diagnostic. |
-| `air_quality_data.csv` | Historical low-cost network: 146 stations, hourly PM2.5, 2020–2026 (544,943 raw records). |
+| `air_quality_data.zip` | Historical low-cost network: 146 stations, hourly PM2.5, 2020–2026 (544,943 raw records); zipped CSV (GitHub 25 MB limit), read directly by the notebook. |
 | `city_twin_data.csv` | Real-time source-context collector: 25 co-identified stations, 12 Aug–17 Sep 2026. |
 | `district_populations.csv` | Official district populations (1 August 2026). |
 | `Supplementary_Materials.docx` | Supplementary Tables S1–S4. |
